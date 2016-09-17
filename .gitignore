@@ -1,0 +1,11 @@
+.idea/*
+config
+node_modules/*
+/app.js
+/index.js
+/run.js
+/work.js
+/lib/parser.js
+/models/manga.js
+/views/
+/resources/
